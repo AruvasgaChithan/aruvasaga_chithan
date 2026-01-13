@@ -12,7 +12,7 @@ const ProjectsSection = () => {
       demo: 'https://github.com/AruvasgaChithan/Pentestpilot-V1.0',
     },
     {
-      title: 'Network Vulnerability Scanner1',
+      title: 'VulnAPI',
       description: 'Network vulnerability scanner with 94% success rate in identifying common misconfigurations. Engineered with GUI for enhanced usability and clear reporting.',
       tags: ['Python', 'Networking', 'GUI'],
       icon: Globe,
