@@ -4,6 +4,14 @@ import { Button } from './ui/button';
 const ProjectsSection = () => {
   const projects = [
     {
+      title: 'VulnAPI',
+      description: 'Hands-on OWASP API Top 10 lab that simulates real-world API vulnerabilities without Swagger or documentation, emphasizing attacker mindset.',
+      tags: ['Python', 'Flask', 'Docker', 'API Security', 'OWASP'],
+      icon: Shield,
+      github: 'https://github.com/AruvasgaChithan',
+      demo: 'https://github.com/AruvasgaChithan/VulnAPI',
+      },
+    {
       title: 'PentestPilot v1.0',
       description: 'AI-assisted automated web vulnerability scanner with 82% accuracy rate in detecting critical vulnerabilities. Features automated PDF reporting with CVSS-based risk scoring.',
       tags: ['Python', 'AI', 'Security', 'Automation'],
@@ -12,20 +20,12 @@ const ProjectsSection = () => {
       demo: 'https://github.com/AruvasgaChithan/Pentestpilot-V1.0',
     },
     {
-      title: 'VulnAPI',
+      title: 'Network Vulnerability Scanner',
       description: 'Network vulnerability scanner with 94% success rate in identifying common misconfigurations. Engineered with GUI for enhanced usability and clear reporting.',
       tags: ['Python', 'Networking', 'GUI'],
       icon: Globe,
       github: 'https://github.com/AruvasgaChithan',
       demo: 'https://github.com/AruvasgaChithan/Vulnerability-Scanner',
-    },
-    {
-      title: 'CLI-PortScanner',
-      description: 'High-speed port scanner that improved reconnaissance efficiency by 50% through TCP SYN and UDP scanning techniques.',
-      tags: ['Python', 'CLI', 'Networking'],
-      icon: Shield,
-      github: 'https://github.com/AruvasgaChithan',
-      demo: 'https://github.com/AruvasgaChithan/CLI-PortScanner',
     },
     {
       title: 'Wild Guard',
