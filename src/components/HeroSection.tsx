@@ -69,7 +69,7 @@ const HeroSection = () => {
           {/* Social Links */}
           <div className="flex items-center justify-center gap-6 animate-slide-up stagger-4">
             <a
-              href="https://github.com/AruvasgaChithan"
+              href="https://github.com/5H4D0WBY73"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
