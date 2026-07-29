@@ -20,7 +20,7 @@ const ContactSection = () => {
   };
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/AruvasgaChithan", label: "GitHub" },
+    { icon: Github, href: "https://aruvasagachithan.vercel.app/", label: "GitHub" },
     {
       icon: Linkedin,
       href: "https://www.linkedin.com/in/aruvasaga-chithan/",
